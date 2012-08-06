@@ -24,3 +24,4 @@ Scenario Outline: Convertir <arabigo>
 	| 12	  | XII 	|
 	| 13	  | XIII 	|
 	| 15	  | XV  	|
+	| 16	  | XVI  	|
