@@ -20,3 +20,4 @@ Scenario Outline: Convertir <arabigo>
 	| 8		  | VIII	|
 	| 9		  | IX  	|
 	| 10	  | X 	 	|
+	| 11	  | XI 	 	|
