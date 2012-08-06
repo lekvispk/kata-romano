@@ -17,3 +17,4 @@ Scenario Outline: Convertir <arabigo>
 	| 5		  | V	    |
 	| 6		  | VI	    |
 	| 7		  | VII	    |
+	| 8		  | VIII	|
