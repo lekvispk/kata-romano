@@ -22,7 +22,8 @@ class Conversor
 				6 => "VI",
 				7 => "VII",
 				8 => "VIII",
-				9 => "IX" }
+				9 => "IX",
+				10 => "X"  }
 		return x.fetch( numero ) if x.has_key?( numero )  
 	end
 end
